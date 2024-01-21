@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FaarizAhmed&label=Profile%20views&color=0e75b6&style=flat" alt="FaarizAhmed" /> </p>
 
-<img align="right" width="160" height="190" src="https://media.discordapp.net/attachments/1033011201610879047/1198631071848337429/F8714164-AD86-478E-8BF3-7CD8318C3F6F-1.gif">                                         
+<img align="right" width="140" height="170" src="https://media.discordapp.net/attachments/1033011201610879047/1198631071848337429/F8714164-AD86-478E-8BF3-7CD8318C3F6F-1.gif">                                         
 - 🌱 Exploring Smart Contracts and Web 3.0 <br/>
 
 ### Skills
